@@ -13,7 +13,7 @@ Utilizei as tags <div> para criar blocos distintos de conteúdo, o que facilitou
 Apliquei o CSS escrevendo regras de formatação diretamente dentro da tag <style>, localizada no <head> do documento. Para formatar a caixa principal, por exemplo, utilizei o seletor de classe .perfil. Dentro dessa regra, apliquei a propriedade padding com o valor 25px, garantindo um espaçamento interno para que o texto não ficasse colado nas bordas.
 
 5. Quais cores e propriedades visuais você escolheu e qual foi o resultado observado no navegador?
-Escolhi três cores diferentes para os textos usando a propriedade color, como o azul escuro (#2c3e50) no título <h1> e o verde (#27ae60) no título <h2> da seção de objetivos. Para destacar os blocos, apliquei background-color com tons muito claros e usei a propriedade border, criando uma linha sólida na classe .perfil e tracejada na classe .objetivos. O resultado no navegador foi uma página com os blocos de conteúdo muito bem demarcados visualmente e agradáveis de ler.
+Escolhi três cores diferentes para os textos usando a propriedade color, como o azul escuro (#2c3e50) no título <h1 > e o verde (#27ae60) no título <h2 > da seção de objetivos. Para destacar os blocos, apliquei background-color com tons muito claros e usei a propriedade border, criando uma linha sólida na classe .perfil e tracejada na classe .objetivos. O resultado no navegador foi uma página com os blocos de conteúdo muito bem demarcados visualmente e agradáveis de ler.
 
 6. Qual alteração ou correção foi necessária depois que você testou a página? Caso não tenha ocorrido erro, explique como realizou o teste.
 Usei a extensão Live Server e ativei o Go live.
