@@ -1,7 +1,7 @@
 # EAD3010
 
 1. Como você montou a estrutura básica do arquivo index.html? Explique a função de <!DOCTYPE html>, <html>, <head> e <body>.
-Iniciei o arquivo com a declaração <!DOCTYPE html> para informar ao navegador que estou utilizando a versão mais recente, o HTML5. Em seguida, utilizei a tag <html> para englobar todo o documento e definir o idioma principal. Dentro dela, dividi o código entre o <head>, que contém as configurações ocultas da página, e o <body>, onde coloquei todo o conteúdo visível, como o título <h1>Meu perfil acadêmico</h1>.
+Iniciei o arquivo com a declaração <!DOCTYPE html> para informar ao navegador que estou utilizando a versão mais recente, o HTML5. Em seguida, utilizei a tag <html> para englobar todo o documento e definir o idioma principal. Dentro dela, dividi o código entre o <head>, que contém as configurações ocultas da página, e o <body>, onde coloquei todo o conteúdo visível, como o título <h1 Meu perfil acadêmico </h1 .
 
 2. O que você colocou dentro do <head> e qual é a função de cada elemento utilizado?
 Dentro do <head>, incluí a tag <meta charset="UTF-8"> para garantir que os caracteres especiais e acentos do português sejam exibidos corretamente. Adicionei também a tag <meta name="viewport" content="width=device-width, initial-scale=1.0"> para garantir que a página se adapte a telas de celulares. Por fim, utilizei a tag <title>Meu perfil acadêmico</title> para nomear a aba do navegador e a tag <style> para incluir as regras de CSS.
